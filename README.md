@@ -3,4 +3,4 @@
 Goto:
 
 - https://archive.glftpd.nl.eu.org
-- https://archive.glftpd.ga
+
